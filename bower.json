@@ -1,0 +1,21 @@
+{
+  "name": "socle",
+  "version": "0.0.1",
+  "homepage": "https://github.com/SteveCarrasco/socle",
+  "authors": [
+    "SteveCarrasco <casteve@wanadoo.fr>"
+  ],
+  "description": "socle projet PHP",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/public/assets",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}
